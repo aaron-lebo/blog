@@ -6,16 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Fisher Lebo
+tagline:          go fish
+url:              http://fisher-lebo.github.io
 paginate:         1
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Fisher Lebo
+  url:            https://twitter.com/fisher-lebo
+  email:          fisher.lebo@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/fisher-lebo/fisher-lebo.github.io
