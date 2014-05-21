@@ -1,0 +1,6 @@
+---
+layout: post
+title: halt and catch fire 
+---
+
+> What a fearful way to do business! You've made just enough safe choices to stay alive, but not enough to matter. Is that what you want? You can be more. You want to be more, don't you? The window of opportunity is closing. This is your chance. This is not about not losing. This is about you, finally having the confidence to walk out on the ledge and knowing you're not going to fall. - Joe MacMillan, Halt and Catch Fire
