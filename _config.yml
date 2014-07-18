@@ -7,7 +7,6 @@ permalink:        pretty
 
 # Setup
 title:            Fisher Lebo
-tagline:          go fish
 description:      '<a href="https://twitter.com/fisher_lebo" target="_blank">@fisher_lebo</a>.'
 url:              http://fisher-lebo.github.io
 paginate:         5
