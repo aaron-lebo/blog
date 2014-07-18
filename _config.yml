@@ -10,6 +10,7 @@ title:            Fisher Lebo
 tagline:          go fish
 url:              http://fisher-lebo.github.io
 paginate:         1
+baseurl:          /
 author:
   name:           Fisher Lebo
   url:            https://twitter.com/fisher-lebo
