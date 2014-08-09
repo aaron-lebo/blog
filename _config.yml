@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Fisher Lebo
-description:      '<a href="https://twitter.com/fisher_lebo" target="_blank">@fisher_lebo</a>'
-url:              http://fisher-lebo.github.io
+title:            Aaron Lebo
+description:      '<a href="https://twitter.com/aaron_lebo" target="_blank">@aaron_lebo</a>'
+url:              http://aaron-lebo.github.io
 paginate:         5
 baseurl:          /
 author:
-  name:           Fisher Lebo
-  url:            https://twitter.com/fisher-lebo
-  email:          fisher.lebo@gmail.com
+  name:           Aaron Lebo
+  url:            https://twitter.com/aaron_lebo
+  email:          aaron.matthew.lebo@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/fisher-lebo/fisher-lebo.github.io
+  repo:           https://github.com/aaron-lebo/aaron-lebo.github.io
