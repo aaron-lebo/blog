@@ -27,7 +27,7 @@ Future three is by almost any measure a complete failure. Future two is not as d
 
 It is for this reason that I believe that Bitcoin is likely doomed as a currency. It will either exist as part of the system with its basic goals stripped away, or it will exist outside of the system, kept alive or remembered only by a small group of fervent supporters. While the technology may not work well as a currency, similar ideas that harness decentralization, but aren't focused on being a currency, such as [Ethereum](http://www.ethereum.org), may have a more realistic chance. Currently, supporters are perhaps unrealistic about what can realistically be and even should be decentralized, but the core application is a powerful one, and goes back to perhaps the original ethos behind Bitcoin: put power in the hands of the people.
 
-1. Much of the mining power on the Bitcoin network already is centralized and is becoming more so, which is problem of its own kind.
+1. Much of the mining power on the Bitcoin network already is centralized and is becoming more so, which is a problem of its own kind.
 2. The big winners in this future are the early financial adopters - perhaps explaining why they are the most excited.
 
 
